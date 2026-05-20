@@ -571,6 +571,87 @@ a:hover {
 }
 
 /* =========================
+   RESUME SECTION
+   ========================= */
+
+.resume-section {
+    background: white;
+    padding: 25px 30px;
+    margin: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.resume-card {
+    background: linear-gradient(135deg, #1a73e8, #6a11cb);
+    color: white;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.resume-card p {
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+    line-height: 1.7;
+}
+
+.resume-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.resume-btn {
+    background: white;
+    color: #1a73e8;
+    padding: 12px 22px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.resume-btn:hover {
+    transform: translateY(-3px);
+    background: #f4f4f4;
+    text-decoration: none;
+}
+
+.download-btn {
+    background: #ffcc00;
+    color: #222;
+}
+
+.download-btn:hover {
+    background: #ffdb4d;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+
+    .resume-section {
+        margin: 15px;
+    }
+
+    .resume-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .resume-btn {
+        width: 220px;
+        justify-content: center;
+    }
+}
+
+/* =========================
    CONTACT SECTION
    ========================= */
 
