@@ -3,8 +3,8 @@
 Personal portfolio website showcasing my **projects, skills, achievements, and leadership experience**.
 
 🔗 **Live Demo (MVP):**  
-https://gowthamk-dev.github.io/Gowtham-K-Portfolio/
-
+ https://gowthamvanjimuthu-cyber.github.io/Gowtham-K-Portfolio/
+ 
 ---
 
 ## 🚀 Highlights
