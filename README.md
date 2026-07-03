@@ -1,18 +1,19 @@
 # 🌐 Gowtham K – Portfolio Website
 
-Personal portfolio website showcasing my **projects, skills, achievements, and leadership experience**.
+Personal portfolio website showcasing my **projects, technical skills, internships, certifications, leadership experience, and achievements**.
 
-🔗 **Live Demo (MVP):**  
+🔗 **Live Demo:**  
  https://gowthamvanjimuthu-cyber.github.io/Gowtham-K-Portfolio/
  
 ---
 
 ## 🚀 Highlights
 
-- AI & Data Science focused portfolio  
-- Real-world project showcase  
-- Clean, responsive UI  
-- Professional presentation  
+- AI & Data Science focused portfolio
+- Real-world project showcase
+- Internship and certification highlights
+- Leadership and extracurricular activities
+- Clean, responsive UI
 
 ---
 
@@ -27,5 +28,6 @@ HTML • CSS • JavaScript • GitHub Pages
 ```bash
 git clone https://github.com/2403717624321014-sudo/Gowtham-K-Portfolio.git
 cd Gowtham-K-Portfolio
-open index.html
- 
+```
+
+Open `index.html` in your preferred web browser.
