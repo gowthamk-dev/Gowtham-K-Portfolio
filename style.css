@@ -675,6 +675,17 @@ footer {
     margin-top: 30px;
 }
 
+.open-to {
+    margin-top: 15px;
+    padding: 10px 15px;
+    display: inline-block;
+    background: rgba(0, 123, 255, 0.08);
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #0d6efd;
+}
+
 /* =========================
    RESPONSIVE DESIGN
    ========================= */
